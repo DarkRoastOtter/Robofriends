@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Inknut Antiqua';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Inknut Antiqua'), url('../components/InknutAntiqua-Regular.ttf') format('truetype');
+}
+
+h1 {
+    font-family: 'Inknut Antiqua';
+    font-weight: 800;
+    color: rgb(25, 28, 29);
+}
